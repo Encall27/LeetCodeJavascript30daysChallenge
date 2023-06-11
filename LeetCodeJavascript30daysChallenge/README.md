@@ -1,4 +1,4 @@
-#LeetCode Javascript 30days study plan
+# LeetCode Javascript 30days study plan
 
 https://leetcode.com/studyplan/30-days-of-javascript/
 
